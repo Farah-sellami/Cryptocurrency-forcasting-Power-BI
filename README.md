@@ -32,15 +32,17 @@ it changes all the time based on interaction with the report, allowing you to qu
 visualize data in the form of graphs to build reports and dashboards.
 Our project consists of 3 pages:
 • HOME
+
 • OVERVIEW
+
 • FORECASTING
 
-**HOME**
+	:chart: **HOME**
 ![1](https://user-images.githubusercontent.com/94402429/213483873-dfe3e1bc-e4eb-4437-809c-d98d804b7eca.PNG)
 
-**OVERVIEW**
+	:chart: **OVERVIEW**
 ![2](https://user-images.githubusercontent.com/94402429/213483889-45940336-53bd-490f-ab14-c886ca83125f.PNG)
 ![3](https://user-images.githubusercontent.com/94402429/213483902-03ce6173-af83-4d81-aa9c-7a52aa994065.PNG)
 
-**FORECASTING**
+	:chart: **FORECASTING**
 ![4](https://user-images.githubusercontent.com/94402429/213483917-cf778972-cd70-47c9-ad8c-d74d2f0a62fb.PNG)
