@@ -23,7 +23,7 @@ build a relational model: the fact table depends on the dimension tables.
 
 ![1](https://user-images.githubusercontent.com/94402429/213493158-32e2b288-04dd-43ab-9a65-b3ee6e8e2b53.PNG)
 
-## Analyse :
+## Analysis :
 Enrich the data model with Measures and calculated columns using the DAX language.
 - calculated columns : is computed at the row level within the table it belongs to. Tt does not depend on what the user does in the report.
 -  Measures : is evaluated in the context of a DAX visualization or query.
