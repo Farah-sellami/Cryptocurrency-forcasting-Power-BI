@@ -30,7 +30,7 @@ Enrich the data model with Measures and calculated columns using the DAX languag
 it changes all the time based on interaction with the report, allowing you to quickly and dynamically explore the data you want to see.
 ## Reporting :
 visualize data in the form of graphs to build reports and dashboards.
-Our project consists of 3 pages:
+This project consists of 3 pages:
 
 • HOME
 
