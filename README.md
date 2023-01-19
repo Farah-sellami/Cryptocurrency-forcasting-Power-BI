@@ -14,6 +14,7 @@ It is a set of csv files for each currency.
 - An Excel file contains general information for each currency.
 - A Calendar table created with Date Query : 
 function (StartDate as date,EndDate as date, FYStartMonth as number) as table =>
+
 :heavy_check_mark: at the end of this phase we obtain our Data Warehouse
 ![1](https://user-images.githubusercontent.com/94402429/213493158-32e2b288-04dd-43ab-9a65-b3ee6e8e2b53.PNG)
 
