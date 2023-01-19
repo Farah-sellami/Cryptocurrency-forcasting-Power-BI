@@ -16,11 +16,13 @@ It is a set of csv files for each currency.
 function (StartDate as date,EndDate as date, FYStartMonth as number) as table =>
 
 :heavy_check_mark: at the end of this phase we obtain our Data Warehouse
-![1](https://user-images.githubusercontent.com/94402429/213493158-32e2b288-04dd-43ab-9a65-b3ee6e8e2b53.PNG)
 
 ## modelization :
 build a relational model: the fact table depends on the dimension table.
 - Each dimension table represents an axis of analysis.
+
+![1](https://user-images.githubusercontent.com/94402429/213493158-32e2b288-04dd-43ab-9a65-b3ee6e8e2b53.PNG)
+
 ## Analyse :
 Enrich the data model with Measures and calculated columns using the DAX language.
 - calculated columns : is computed at the row level within the table it belongs to. Tt does not depend on what the user does in the report.
